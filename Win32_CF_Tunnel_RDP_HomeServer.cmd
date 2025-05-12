@@ -1,6 +1,3 @@
-::cloudflared access rdp --hostname hq-srv-jsr.endusercompute.in --url rdp://localhost:3381
-
-
 @echo off
 setlocal enabledelayedexpansion
 
